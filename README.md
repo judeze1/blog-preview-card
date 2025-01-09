@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./my-blog-preview-result.png)
+![](./My-frontend%20Mentor-Blog-preview-card.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/judeze1/blog-preview-card
+- Live Site URL: https://blog-preview-card-flame-delta.vercel.app/
 
 ### Built with
 
